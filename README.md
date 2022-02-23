@@ -12,6 +12,5 @@ It was implemented a method to rotate de polygon to the new position.
 However, this solution is not totally convenient because a flicker was perceived 
  during the refresh time. One way to solve this problem could be trying to find a way to refresh only parts of the screen that are doing animation and not to refresh all the screen.
 
-The approximated time to do this project was  2 days, using approximately 12 hours, considering that it happened to be a high demand for personal issues this weekend.
-
+The approximated time to do this project was approximately 12 hours.
 
